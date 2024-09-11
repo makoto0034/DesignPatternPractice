@@ -1,0 +1,160 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\makot\\OneDrive\\\u30C7\u30B9\u30AF\u30C8\u30C3\u30D7\\workspace\\Practice\\mediatorPractice\\MediatRAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4D21778A-9D0F-4479-AA7E-343EB682C083}|MediatRHandlers\\MediatRHandlers.csproj|c:\\users\\makot\\onedrive\\\u30C7\u30B9\u30AF\u30C8\u30C3\u30D7\\workspace\\practice\\mediatorpractice\\mediatrapi\\mediatrhandlers\\requesthandlers\\getcustomerhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D21778A-9D0F-4479-AA7E-343EB682C083}|MediatRHandlers\\MediatRHandlers.csproj|solutionrelative:mediatrhandlers\\requesthandlers\\getcustomerhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D21778A-9D0F-4479-AA7E-343EB682C083}|MediatRHandlers\\MediatRHandlers.csproj|c:\\users\\makot\\onedrive\\\u30C7\u30B9\u30AF\u30C8\u30C3\u30D7\\workspace\\practice\\mediatorpractice\\mediatrapi\\mediatrhandlers\\requesthandlers\\createcustomerhanlder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D21778A-9D0F-4479-AA7E-343EB682C083}|MediatRHandlers\\MediatRHandlers.csproj|solutionrelative:mediatrhandlers\\requesthandlers\\createcustomerhanlder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D21778A-9D0F-4479-AA7E-343EB682C083}|MediatRHandlers\\MediatRHandlers.csproj|c:\\users\\makot\\onedrive\\\u30C7\u30B9\u30AF\u30C8\u30C3\u30D7\\workspace\\practice\\mediatorpractice\\mediatrapi\\mediatrhandlers\\requests\\createcustomerrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D21778A-9D0F-4479-AA7E-343EB682C083}|MediatRHandlers\\MediatRHandlers.csproj|solutionrelative:mediatrhandlers\\requests\\createcustomerrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D21778A-9D0F-4479-AA7E-343EB682C083}|MediatRHandlers\\MediatRHandlers.csproj|c:\\users\\makot\\onedrive\\\u30C7\u30B9\u30AF\u30C8\u30C3\u30D7\\workspace\\practice\\mediatorpractice\\mediatrapi\\mediatrhandlers\\mediatrhandlers.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{4D21778A-9D0F-4479-AA7E-343EB682C083}|MediatRHandlers\\MediatRHandlers.csproj|solutionrelative:mediatrhandlers\\mediatrhandlers.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D21778A-9D0F-4479-AA7E-343EB682C083}|MediatRHandlers\\MediatRHandlers.csproj|c:\\users\\makot\\onedrive\\\u30C7\u30B9\u30AF\u30C8\u30C3\u30D7\\workspace\\practice\\mediatorpractice\\mediatrapi\\mediatrhandlers\\repositories\\icustomerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D21778A-9D0F-4479-AA7E-343EB682C083}|MediatRHandlers\\MediatRHandlers.csproj|solutionrelative:mediatrhandlers\\repositories\\icustomerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D21778A-9D0F-4479-AA7E-343EB682C083}|MediatRHandlers\\MediatRHandlers.csproj|c:\\users\\makot\\onedrive\\\u30C7\u30B9\u30AF\u30C8\u30C3\u30D7\\workspace\\practice\\mediatorpractice\\mediatrapi\\mediatrhandlers\\entities\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D21778A-9D0F-4479-AA7E-343EB682C083}|MediatRHandlers\\MediatRHandlers.csproj|solutionrelative:mediatrhandlers\\entities\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C8FB854-A52D-4085-AD68-CC79675199F0}|MediatRAPI\\MediatRAPI.csproj|c:\\users\\makot\\onedrive\\\u30C7\u30B9\u30AF\u30C8\u30C3\u30D7\\workspace\\practice\\mediatorpractice\\mediatrapi\\mediatrapi\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C8FB854-A52D-4085-AD68-CC79675199F0}|MediatRAPI\\MediatRAPI.csproj|solutionrelative:mediatrapi\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D21778A-9D0F-4479-AA7E-343EB682C083}|MediatRHandlers\\MediatRHandlers.csproj|c:\\users\\makot\\onedrive\\\u30C7\u30B9\u30AF\u30C8\u30C3\u30D7\\workspace\\practice\\mediatorpractice\\mediatrapi\\mediatrhandlers\\requests\\getcustomerrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D21778A-9D0F-4479-AA7E-343EB682C083}|MediatRHandlers\\MediatRHandlers.csproj|solutionrelative:mediatrhandlers\\requests\\getcustomerrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ICustomerRepository.cs",
+              "DocumentMoniker": "C:\\Users\\makot\\OneDrive\\\u30C7\u30B9\u30AF\u30C8\u30C3\u30D7\\workspace\\Practice\\mediatorPractice\\MediatRAPI\\MediatRHandlers\\Repositories\\ICustomerRepository.cs",
+              "RelativeDocumentMoniker": "MediatRHandlers\\Repositories\\ICustomerRepository.cs",
+              "ToolTip": "C:\\Users\\makot\\OneDrive\\\u30C7\u30B9\u30AF\u30C8\u30C3\u30D7\\workspace\\Practice\\mediatorPractice\\MediatRAPI\\MediatRHandlers\\Repositories\\ICustomerRepository.cs",
+              "RelativeToolTip": "MediatRHandlers\\Repositories\\ICustomerRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-11T15:05:34.457Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CreateCustomerRequest.cs",
+              "DocumentMoniker": "C:\\Users\\makot\\OneDrive\\\u30C7\u30B9\u30AF\u30C8\u30C3\u30D7\\workspace\\Practice\\mediatorPractice\\MediatRAPI\\MediatRHandlers\\Requests\\CreateCustomerRequest.cs",
+              "RelativeDocumentMoniker": "MediatRHandlers\\Requests\\CreateCustomerRequest.cs",
+              "ToolTip": "C:\\Users\\makot\\OneDrive\\\u30C7\u30B9\u30AF\u30C8\u30C3\u30D7\\workspace\\Practice\\mediatorPractice\\MediatRAPI\\MediatRHandlers\\Requests\\CreateCustomerRequest.cs",
+              "RelativeToolTip": "MediatRHandlers\\Requests\\CreateCustomerRequest.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAApwAsAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-11T15:02:45.863Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "GetCustomerRequest.cs",
+              "DocumentMoniker": "C:\\Users\\makot\\OneDrive\\\u30C7\u30B9\u30AF\u30C8\u30C3\u30D7\\workspace\\Practice\\mediatorPractice\\MediatRAPI\\MediatRHandlers\\Requests\\GetCustomerRequest.cs",
+              "RelativeDocumentMoniker": "MediatRHandlers\\Requests\\GetCustomerRequest.cs",
+              "ToolTip": "C:\\Users\\makot\\OneDrive\\\u30C7\u30B9\u30AF\u30C8\u30C3\u30D7\\workspace\\Practice\\mediatorPractice\\MediatRAPI\\MediatRHandlers\\Requests\\GetCustomerRequest.cs",
+              "RelativeToolTip": "MediatRHandlers\\Requests\\GetCustomerRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-11T15:02:13.873Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "C:\\Users\\makot\\OneDrive\\\u30C7\u30B9\u30AF\u30C8\u30C3\u30D7\\workspace\\Practice\\mediatorPractice\\MediatRAPI\\MediatRHandlers\\Entities\\Customer.cs",
+              "RelativeDocumentMoniker": "MediatRHandlers\\Entities\\Customer.cs",
+              "ToolTip": "C:\\Users\\makot\\OneDrive\\\u30C7\u30B9\u30AF\u30C8\u30C3\u30D7\\workspace\\Practice\\mediatorPractice\\MediatRAPI\\MediatRHandlers\\Entities\\Customer.cs",
+              "RelativeToolTip": "MediatRHandlers\\Entities\\Customer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-11T14:59:16.553Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CustomerController.cs",
+              "DocumentMoniker": "C:\\Users\\makot\\OneDrive\\\u30C7\u30B9\u30AF\u30C8\u30C3\u30D7\\workspace\\Practice\\mediatorPractice\\MediatRAPI\\MediatRAPI\\Controllers\\CustomerController.cs",
+              "RelativeDocumentMoniker": "MediatRAPI\\Controllers\\CustomerController.cs",
+              "ToolTip": "C:\\Users\\makot\\OneDrive\\\u30C7\u30B9\u30AF\u30C8\u30C3\u30D7\\workspace\\Practice\\mediatorPractice\\MediatRAPI\\MediatRAPI\\Controllers\\CustomerController.cs",
+              "RelativeToolTip": "MediatRAPI\\Controllers\\CustomerController.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAswBgAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-11T14:51:09.78Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GetCustomerHandler.cs",
+              "DocumentMoniker": "C:\\Users\\makot\\OneDrive\\\u30C7\u30B9\u30AF\u30C8\u30C3\u30D7\\workspace\\Practice\\mediatorPractice\\MediatRAPI\\MediatRHandlers\\RequestHandlers\\GetCustomerHandler.cs",
+              "RelativeDocumentMoniker": "MediatRHandlers\\RequestHandlers\\GetCustomerHandler.cs",
+              "ToolTip": "C:\\Users\\makot\\OneDrive\\\u30C7\u30B9\u30AF\u30C8\u30C3\u30D7\\workspace\\Practice\\mediatorPractice\\MediatRAPI\\MediatRHandlers\\RequestHandlers\\GetCustomerHandler.cs",
+              "RelativeToolTip": "MediatRHandlers\\RequestHandlers\\GetCustomerHandler.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-11T14:48:21.95Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CreateCustomerHanlder.cs",
+              "DocumentMoniker": "C:\\Users\\makot\\OneDrive\\\u30C7\u30B9\u30AF\u30C8\u30C3\u30D7\\workspace\\Practice\\mediatorPractice\\MediatRAPI\\MediatRHandlers\\RequestHandlers\\CreateCustomerHanlder.cs",
+              "RelativeDocumentMoniker": "MediatRHandlers\\RequestHandlers\\CreateCustomerHanlder.cs",
+              "ToolTip": "C:\\Users\\makot\\OneDrive\\\u30C7\u30B9\u30AF\u30C8\u30C3\u30D7\\workspace\\Practice\\mediatorPractice\\MediatRAPI\\MediatRHandlers\\RequestHandlers\\CreateCustomerHanlder.cs",
+              "RelativeToolTip": "MediatRHandlers\\RequestHandlers\\CreateCustomerHanlder.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAzwAsAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-11T14:41:45.407Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MediatRHandlers",
+              "DocumentMoniker": "C:\\Users\\makot\\OneDrive\\\u30C7\u30B9\u30AF\u30C8\u30C3\u30D7\\workspace\\Practice\\mediatorPractice\\MediatRAPI\\MediatRHandlers\\MediatRHandlers.csproj",
+              "RelativeDocumentMoniker": "MediatRHandlers\\MediatRHandlers.csproj",
+              "ToolTip": "C:\\Users\\makot\\OneDrive\\\u30C7\u30B9\u30AF\u30C8\u30C3\u30D7\\workspace\\Practice\\mediatorPractice\\MediatRAPI\\MediatRHandlers\\MediatRHandlers.csproj",
+              "RelativeToolTip": "MediatRHandlers\\MediatRHandlers.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-09-11T14:39:58.3Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
